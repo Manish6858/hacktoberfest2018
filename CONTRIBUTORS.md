@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Manish Pal (https://github.com/Manish6858)
+Place: India
+About: Student
+Programming Language: C,Java,Android,PHP 
+Email: manishpal8423@gmail.com
